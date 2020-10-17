@@ -10,4 +10,4 @@ The library is intended to be used by developers. Please refer to the [JavaDoc](
 
 The library is available via our update sites:
 * [Latest nightly builds](https://updatesite.mdsd.tools/library-emfeditutils/nightly)
-* [Latest release build](https://updatesite.mdsd.tools/library-emfeditutils/releases/latest)
+* [Latest release build](https://updatesite.mdsd.tools/library-emfeditutils/releases/latest) 
