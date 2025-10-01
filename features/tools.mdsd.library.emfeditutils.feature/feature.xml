@@ -2,7 +2,7 @@
 <feature
       id="tools.mdsd.library.emfeditutils.feature"
       label="EMF Edit Utils Feature"
-      version="0.2.0.qualifier"
+      version="1.0.0"
       license-feature="tools.mdsd.license.epl2"
       license-feature-version="1.0.0">
 
