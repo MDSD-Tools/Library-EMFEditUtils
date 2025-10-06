@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: EMF Edit Utils
 Bundle-SymbolicName: tools.mdsd.library.emfeditutils
-Bundle-Version: 1.0.0
+Bundle-Version: 0.2.0.202510010711
 Automatic-Module-Name: tools.mdsd.library.emfeditutils
 Bundle-RequiredExecutionEnvironment: JavaSE-17
 Require-Bundle: org.eclipse.emf.edit
