@@ -2,9 +2,9 @@
 <feature
       id="tools.mdsd.library.emfeditutils.feature"
       label="EMF Edit Utils Feature"
-      version="1.0.0"
+      version="1.1.0"
       license-feature="tools.mdsd.license.epl2"
-      license-feature-version="1.0.0">
+      license-feature-version="1.1.0">
 
    <description>
       Tools that ease implementing providers and other framework utils for EMF edit plugins.
